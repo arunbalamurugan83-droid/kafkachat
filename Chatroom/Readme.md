@@ -10,6 +10,7 @@ A simple real-time chat system built with **Apache Kafka** and **Python**. This 
 - Real-time messaging using Kafka producer and consumer.
 - Unique Kafka consumer group per user to avoid reading your own messages.
 - Multi-threaded consumer to listen for messages in the background.
+- Upcoming feature multi user supports more than 3
 
 ---
 
